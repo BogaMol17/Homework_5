@@ -133,7 +133,7 @@ body {
 
 .header__block:hover {
 	background-color: rgba(233, 195, 195, 0.637);
-	border-top: 1px solid #000;
+	border-top: transparent;
 	border-bottom: 3px solid #000;
 }
 .header__block:hover .header__blockone {
