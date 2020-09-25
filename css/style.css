@@ -127,12 +127,11 @@ body {
 	text-align: center;
 	margin: 0px 150px 20px 0px;
 	border-radius: 60%;
-	background-color: antiquewhite;
 	overflow: hidden;
 }
 
 .header__block:hover {
-	background-color: transparent;
+	background-color: rgba(233, 195, 195, 0.637);
 	border-top: 1px solid #000;
 	border-bottom: 3px solid #000;
 }
